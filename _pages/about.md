@@ -11,8 +11,7 @@ redirect_from:
 
 This Website Can get WILD. Please wear protection and fasten your seatbelt!
 ======
-PUT STUFF HERE
-
+The worlwide global comedy tour is on hold do to personal issues. I will not be reimbursing any of the tickets becouse I hate my fans becouse I literally have none 
 Getting started
 ======
 MORE STUFF
