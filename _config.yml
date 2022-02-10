@@ -85,10 +85,10 @@ author:
   bio              : "Lead member of criminal orginazation called the young boys in pajamas. Religous leader of sevral major religions. Scientist. Inventor of the MRNA vaccine and out spoken anti vaxer"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            : "yonikletzel@gmail.com"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,25 +96,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "YoniKletzel_comedy"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "YoniKletzel"
   vine             :
   weibo            :
   xing             :
-  youtube          :
-  wikipedia        :
+  youtube          : "YoniKletzel"
+  venmo            : "ykletzel"
 
 
 # Reading Files
