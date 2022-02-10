@@ -12,9 +12,17 @@ main:
 
   - title: "Blog Posts"
     url: /year-archive/
+ 
+   - title: "Podcast"
+    url: /podcast/
+    
     
   - title: "Shop"
     url: /shop/
+    
+  - title: "NFTs"
+    url: /nfts/
+        
     
   - title: "Contact"
     url: /contact/
